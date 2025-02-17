@@ -5,12 +5,12 @@
 <img align="right" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
-<br>
-- 🌱 I’m currently learning backend programming with node.js, python JS.**
 
-- 💬 Ask me about **Node.js, RESTAPI's, jest testing**
+- 🌱 I’m currently learning backend programming with node.js, python, JS**
 
-- 📫 How to reach me **sandydan-dev@gmail.com**
+- 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
+
+- 🌱 How to reach me **sandydan-dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
