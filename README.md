@@ -6,7 +6,7 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 
- 🌱 I’m currently learning backend programming with node.js, python, JS**
+- 🌱 I’m currently learning backend programming with node.js, python, JS**
 
 - 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
 
