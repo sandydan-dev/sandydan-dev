@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center">A passionate node.js backend developer from India</h3>
@@ -6,6 +6,10 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 <br>
+- 🌱 I’m currently learning backend programming with node.js, python JS.**
+
+- 💬 Ask me about **Node.js, RESTAPI's, jest testing**
+
 - 📫 How to reach me **sandydan-dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
