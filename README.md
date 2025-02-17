@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
-<h1 align="center">Hi 👋, I'm Sandeep Dhanwate</h1>
+<h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center">A passionate node.js backend developer from India</h3>
 <img align="right" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 
-- 🌱 I’m currently learning backend programming with node.js, python, JS**
+ 🌱 I’m currently learning backend programming with node.js, python, JS**
 
 - 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
 
