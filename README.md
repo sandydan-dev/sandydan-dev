@@ -2,9 +2,10 @@
 
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center">A passionate node.js backend developer from India</h3>
-<img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <br>
 
+<p align=left><img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
+</p>
 
 - 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
 
