@@ -34,12 +34,12 @@
 
  <a href="https://api.whatsapp.com/send/?phone=918999314707&text=Hello%20Sandeep!" target="blank"><img align="center" src="https://www.vectorjungal.com/files/preview/1280x853/11722416436m7boof96vofutcqloubkchzpyuswossfwlqmxitpsszzwm6nuhf6mutjwpk3xgwm38kctvqbbovbnjijtl8vcvkn4xq5kyxnlfek.png" height="40" width="40" /></a>
 
-  <p align="center">
+  <p align="left">
   <a href="https://www.linkedin.com/in/sandeep-dhanaate-2841332b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=918999314707&text=Hello%20Sandeep!" target="blank">
-    <img align="center" src="https://www.vectorjungal.com/files/preview/1280x853/11722416436m7boof96vofutcqloubkchzpyuswossfwlqmxitpsszzwm6nuhf6mutjwpk3xgwm38kctvqbbovbnjijtl8vcvkn4xq5kyxnlfek.png" alt="WhatsApp" height="40" width="40" />
+    <img align="center" src="https://www.vectorjungal.com/files/preview/1280x853/11722416436m7boof96vofutcqloubkchzpyuswossfwlqmxitpsszzwm6nuhf6mutjwpk3xgwm38kctvqbbovbnjijtl8vcvkn4xq5kyxnlfek.png" alt="WhatsApp" height="40" width="50" />
   </a>
 </p>
 
