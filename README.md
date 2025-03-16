@@ -13,7 +13,8 @@
 
 - 🌱 How to reach me **sandydan.dev@gmail.com**
 
-
+<p align=left><img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
+</p>
 
 ## 🚀 Projects I'm Working On:
 - **User Authentication and Authorization:**
