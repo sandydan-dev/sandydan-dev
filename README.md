@@ -7,11 +7,6 @@
 <p align=left><img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 </p>
 
-<p align="left" style="float: left; margin-right: 10px;">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coding" />
-</p>
-
-
 - 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
 
 - 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
