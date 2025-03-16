@@ -4,7 +4,7 @@
 <h3 align="center">A passionate node.js backend developer from India</h3>
 <img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <br>
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
+<p align="left"> <img width=“400” height="300"  src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 
 - 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
 
@@ -19,7 +19,6 @@
   - Implementing secure JWT tokens for session management.
   - Using bcrypt for password hashing to enhance security.
   - Incorporating rate-limiting to protect against brute force attacks.
-  <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 - **API Testing and Jest Mock Functions:**
   - Writing unit tests using Jest to ensure code reliability.
   - Mocking functions and API endpoints for comprehensive testing coverage.
