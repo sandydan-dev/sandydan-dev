@@ -19,7 +19,7 @@
   - Implementing secure JWT tokens for session management.
   - Using bcrypt for password hashing to enhance security.
   - Incorporating rate-limiting to protect against brute force attacks.
-  <img align="right" width=“400” height="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
+  <img align="right" width=“400” height="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 - **API Testing and Jest Mock Functions:**
   - Writing unit tests using Jest to ensure code reliability.
   - Mocking functions and API endpoints for comprehensive testing coverage.
