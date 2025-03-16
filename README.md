@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-dhanaate-2841332b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-dhanaate-2841332b8/" height="30" width="40" /></a>
   
-  <a href="https://api.whatsapp.com/send/?phone=918999314707&text=Hello%20Sandeep!" target="blank"><img align="center" src="https://pngtree.com/freepng/whatsapp-icon_8704827.html" alt="Whatsapp" height="30" width="40" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=918999314707&text=Hello%20Sandeep!" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/313_whatsapp_icon.jpg" alt="Whatsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
