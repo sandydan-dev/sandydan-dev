@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center">A passionate node.js backend developer from India</h3>
-<img align="right" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
+<img  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <br>
 <p align="left"> <img width=“400” height="300" src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 
