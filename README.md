@@ -6,11 +6,14 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandydan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sandydan-dev" /> </p>
 
-- 🌱 I’m currently learning backend programming with node.js, python, JS**
+- 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
 
 - 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
 
 - 🌱 How to reach me **sandydan.dev@gmail.com**
+
+- ## 📈 My Goals:
+- Master microservices architecture for scalable applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
