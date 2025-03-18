@@ -9,7 +9,7 @@
 
 - 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
 
-- 🌱 Ask me about **Node.js, RESTAPI's, jest testing**
+- 🌱 Ask me about **Node.js, RESTAPI's, jest testing, SQL & NoSQL Database **
 
 - 🌱 How to reach me **sandydan.dev@gmail.com**
 
