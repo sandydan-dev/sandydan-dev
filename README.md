@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
-<h3 align="center">A passionate node.js backend developer from India</h3>
+<h3 align="center">A Passionate NodeJS Backend Beveloper from India</h3>
 <br>
 
 <p><img width=400 height=400 align=right src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
