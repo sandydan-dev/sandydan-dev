@@ -25,7 +25,7 @@
 
 
  ## 📈 My Goals:
- Master microservices architecture for scalable applications
+ Master backend architecture for scalable applications
 
 <h3 align="left">Connect with me:</h3>
 
