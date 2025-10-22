@@ -30,8 +30,11 @@
 
 
  ## 📈 My Goals:
- Master backend architecture for scalable applications
-
+ - Master backend architecture for scalable and secure applications  
+- Learn DevOps, CI/CD, and multi-cloud deployment (AWS + Azure)  
+- Automate infrastructure and implement DevSecOps best practices  
+- Explore AI & Python to enhance backend and automation workflows
+<br>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
