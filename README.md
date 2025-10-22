@@ -3,7 +3,7 @@
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center"> A Node.js Developer & Aspiring DevOps Engineer from India </h3>
 <br>
-<h3> 🌱 Learning: Multi-Cloud (AWS + Azure), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Scripting, DevSecOps, Grafana, Python & AI  </h3>
+<h3 align="center"> 🌱 Learning: Multi-Cloud (AWS + Azure), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Scripting, DevSecOps, Grafana, Python & AI  </h3>
 
 <br>
 
