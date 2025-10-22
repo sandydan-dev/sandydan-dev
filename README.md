@@ -28,14 +28,14 @@
   - Mocking functions and API endpoints for comprehensive testing coverage.
   - Building robust test cases to validate both functionality and edge cases.
 
-
+<br>
  ## 📈 My Goals:
  - Master backend architecture for scalable and secure applications  
 - Learn DevOps, CI/CD, and multi-cloud deployment (AWS + Azure)  
 - Automate infrastructure and implement DevSecOps best practices  
 - Explore AI & Python to enhance backend and automation workflows
 <br>
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandeep-dhanaate-2841332b8/" target="_blank">
