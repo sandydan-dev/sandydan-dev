@@ -29,11 +29,12 @@
   - Building robust test cases to validate both functionality and edge cases.
 
 <br>
- ## 📈 My Goals:
+## 📈 My Goals:
  - Master backend architecture for scalable and secure applications  
-- Learn DevOps, CI/CD, and multi-cloud deployment (AWS + Azure)  
-- Automate infrastructure and implement DevSecOps best practices  
-- Explore AI & Python to enhance backend and automation workflows
+ - Learn DevOps, CI/CD, and multi-cloud deployment (AWS + Azure)  
+ - Automate infrastructure and implement DevSecOps best practices  
+ - Explore AI & Python to enhance backend and automation workflows
+
 <br>
 
 ## Connect with me:
