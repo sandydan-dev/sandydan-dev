@@ -35,7 +35,8 @@
 - Automate infrastructure and implement DevSecOps best practices  
 - Explore AI & Python to enhance backend and automation workflows
 <br>
-## <h3 align="left">Connect with me:</h3>
+
+## Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandeep-dhanaate-2841332b8/" target="_blank">
