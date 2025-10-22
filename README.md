@@ -58,6 +58,7 @@
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)  
 ![JFrog](https://img.shields.io/badge/-JFrog-239120?style=flat&logo=jfrog&logoColor=white)  
 ![Apache](https://img.shields.io/badge/-Apache-CA0B00?style=flat&logo=apache&logoColor=white)  
+ 
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
