@@ -10,9 +10,11 @@
 <p><img width=400 height=400 align=right src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 </p>
 
-- 🌱 I'm an aspiring Node.js Developer passionate about backend development and building secure, scalable systems. I enjoy solving technical challenges and continuously improving my skills.
+- 🌱 I'm an aspiring Node.js Developer and DevOps enthusiast, passionate about building secure, scalable systems and automating infrastructure. I enjoy solving technical challenges and continuously improving my skills.  
 
-- 🌱 Ask me about **Node.js, RESTAPI's, jest testing, SQL & NoSQL Database **
+
+- 🌱 Ask me about **Node.js, REST APIs, Jest testing, SQL & NoSQL databases, Docker, Kubernetes, CI/CD, Linux, Terraform, and Cloud (AWS & Azure)**
+
 
 - 🌱 How to reach me **sandydan.dev@gmail.com**
 
