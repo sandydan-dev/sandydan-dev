@@ -3,7 +3,7 @@
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
 <h3 align="center"> Building Scalable Backend Systems | Automating Cloud & DevOps Workflows | Node.js + Python </h3>
 <br>
-<h3 align="center">  Learning: Multi-Cloud (AWS + Azure), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Scripting, DevSecOps, Grafana, Python & AI  </h3>
+<h3 align="center">  Learning: Multi-Cloud (AWS + Azure), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Scripting, DevSecOps, Grafana, Prometheus, Python & AI  </h3>
 
 <br>
 
