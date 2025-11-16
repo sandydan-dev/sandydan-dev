@@ -19,14 +19,8 @@
 - 🌱 How to reach me **sandydan.dev@gmail.com**
 
 ## 🚀 Projects I'm Working On:
-- **User Authentication and Authorization:**
-  - Implementing secure JWT tokens for session management.
-  - Using bcrypt for password hashing to enhance security.
-  - Incorporating rate-limiting to protect against brute force attacks.
-- **API Testing and Jest Mock Functions:**
-  - Writing unit tests using Jest to ensure code reliability.
-  - Mocking functions and API endpoints for comprehensive testing coverage.
-  - Building robust test cases to validate both functionality and edge cases.
+- ** Wait:**
+
 
 <br>
 
