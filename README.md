@@ -1,9 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
-<h3 align="center"> Building Scalable Backend Systems | Automating Cloud & DevOps Workflows | Node.js + Python </h3>
+<h3 align="center">  Multi-Cloud (AWS + Azure), Git, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Script, DevSecOps, Grafana, Prometheus, Python & AI  </h3>
 <br>
-<h3 align="center">  Learning: Multi-Cloud (AWS + Azure), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Scripting, DevSecOps, Grafana, Prometheus, Python & AI  </h3>
+<h3 align="center"> Building Scalable Backend Systems | Automating Cloud & DevOps Workflows | Node.js + Python </h3>
+
 
 <br>
 
