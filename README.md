@@ -12,7 +12,7 @@
 <p><img width=400 height=400 align=right src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 </p>
 
-<h3> About Me </h3>
+## About Me 
 
 I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
 
