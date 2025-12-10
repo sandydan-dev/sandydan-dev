@@ -14,9 +14,10 @@
 
 <h3> About Me </h3>
 
-- I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
+I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
 
 📩 Reach me: sandydan.dev@gmail.com
+<br>
 <br>
 
 ## Projects I'm Working On:
