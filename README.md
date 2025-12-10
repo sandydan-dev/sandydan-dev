@@ -1,10 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center" style="color: gold">Hi 👋, I'm Sandeep Dhanwate</h1>
-<h3 align="center">  Multi-Cloud (AWS + Azure), Git, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, Shell Script, DevSecOps, Grafana, Prometheus, Python & AI  </h3>
+<h3 align="center">  DevOps Engineer | AWS & Azure | Docker | Kubernetes | Jenkins | Terraform | Ansible | Linux | DevSecOps | Prometheus | Grafana | Shell Scripting  </h3>
 <br>
 <h3 align="center"> Building Scalable Backend Systems | Automating Cloud & DevOps Workflows | Node.js + Python </h3>
 
+About Me
+
+I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
+
+📩 Reach me: sandydan.dev@gmail.com
 
 <br>
 
