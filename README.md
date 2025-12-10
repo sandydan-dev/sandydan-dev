@@ -20,7 +20,15 @@
 - 🌱 How to reach me **sandydan.dev@gmail.com**
 
 ## 🚀 Projects I'm Working On:
-- ** Wait:**
+Building an end-to-end CI/CD pipeline using Git, Jenkins, Docker, Kubernetes, Terraform, and Ansible.
+
+Automating cloud infrastructure on AWS and Azure using Terraform and Ansible.
+
+Implementing monitoring and logging using Prometheus, Grafana, and related observability tools.
+
+Developing a complete DevOps workflow covering source control, build automation, testing, containerization, deployment, and monitoring.
+
+Integrating security checks and best practices into the CI/CD process (DevSecOps).
 
 
 <br>
