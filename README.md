@@ -59,6 +59,7 @@ Apply DevSecOps principles to ensure secure and compliant delivery workflows.
     <img align="center" src="https://www.vectorjungal.com/files/preview/1280x853/11722416436m7boof96vofutcqloubkchzpyuswossfwlqmxitpsszzwm6nuhf6mutjwpk3xgwm38kctvqbbovbnjijtl8vcvkn4xq5kyxnlfek.png" alt="WhatsApp Icon" height="50" width="60" />
   </a>
 </p>
+<br>
 
 
 ## DevOps & Cloud Tools:
