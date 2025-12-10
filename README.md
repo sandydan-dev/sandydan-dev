@@ -12,13 +12,14 @@
 <p><img width=400 height=400 align=right src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 </p>
 
-About Me
+<h3> About Me </h3>
 
-I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
+- I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
 
 📩 Reach me: sandydan.dev@gmail.com
+<br>
 
-## 🚀 Projects I'm Working On:
+## Projects I'm Working On:
 Building an end-to-end CI/CD pipeline using Git, Jenkins, Docker, Kubernetes, Terraform, and Ansible.
 
 Automating cloud infrastructure on AWS and Azure using Terraform and Ansible.
