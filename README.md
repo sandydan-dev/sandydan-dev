@@ -5,24 +5,18 @@
 <br>
 <h3 align="center"> Building Scalable Backend Systems | Automating Cloud & DevOps Workflows | Node.js + Python </h3>
 
-About Me
 
-I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
-
-📩 Reach me: sandydan.dev@gmail.com
 
 <br>
 
 <p><img width=400 height=400 align=right src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 </p>
 
-- 🌱 I'm an aspiring Node.js Developer and DevOps enthusiast, passionate about building secure, scalable systems and automating infrastructure. I enjoy solving technical challenges and continuously improving my skills.  
+About Me
 
+I’m an aspiring DevOps Engineer focused on automating cloud infrastructure, building scalable CI/CD pipelines, and implementing modern DevSecOps practices. I enjoy working with cloud services, container orchestration, and infrastructure automation to create reliable and secure deployment workflows.
 
-- 🌱 Ask me about **Node.js, REST APIs, Jest testing, SQL & NoSQL databases, Docker, Kubernetes, CI/CD, Linux, Terraform, and Cloud (AWS & Azure)**
-
-
-- 🌱 How to reach me **sandydan.dev@gmail.com**
+📩 Reach me: sandydan.dev@gmail.com
 
 ## 🚀 Projects I'm Working On:
 Building an end-to-end CI/CD pipeline using Git, Jenkins, Docker, Kubernetes, Terraform, and Ansible.
