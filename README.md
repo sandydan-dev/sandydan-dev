@@ -26,10 +26,17 @@
 <br>
 
 ## 📈 My Goals:
- - Master backend architecture for scalable and secure applications  
- - Learn DevOps, CI/CD, and multi-cloud deployment (AWS + Azure)  
- - Automate infrastructure and implement DevSecOps best practices  
- - Explore AI & Python to enhance backend and automation workflows
+Strengthen skills in cloud platforms including AWS and Azure.
+
+Gain hands-on expertise in core DevOps tools: Linux, Docker, Jenkins, Kubernetes, Terraform, Ansible, Helm, Prometheus, and Grafana.
+
+Master the automation of infrastructure, application deployment, and environment management.
+
+Build reliable, scalable CI/CD pipelines for modern cloud-native applications.
+
+Improve knowledge in monitoring, alerting, and performance optimization across distributed systems.
+
+Apply DevSecOps principles to ensure secure and compliant delivery workflows.
 
 <br>
 
